@@ -1,0 +1,17 @@
+img {
+    height: 600px;
+    width: 750px;
+    margin-left: 180px;
+    animation-name: lift;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  @keyframes lift {
+    50% {
+      transform: scale(1.1);
+    }
+  }
+  
+  body {
+    background-color: black;
+  }
