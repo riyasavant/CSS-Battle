@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+  }
+  .main {
+    margin: auto;
+    margin-top: 100px;
+    background-color: #fd6a02;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    position: relative;
+    animation-name: basketball;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+  .inner-right {
+    background-color: transparent;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-left: 3px solid white;
+    border-radius: 50%;
+    position: absolute;
+    left: 130px;
+  }
+  .inner-left {
+    background-color: transparent;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-right: 3px solid white;
+    border-radius: 50%;
+    position: absolute;
+    left: -132px;
+  }
+  
+  @keyframes basketball {
+    0% {
+      margin-top: 100px;
+    }
+    50% {
+      margin-top: 300px;
+    }
+    100% {
+      margin-top: 100px;
+    }
+  }
