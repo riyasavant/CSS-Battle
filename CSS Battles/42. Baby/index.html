@@ -1,0 +1,70 @@
+<!-- HTML -->
+
+<div class="face">
+    <div class="left-eye eyes"></div>
+    <div class="right-eye eyes"></div>
+    <div class="mouth"></div>
+    <div class="hair"></div>
+    <div class="right-hair hair"></div>
+</div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #293462;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .face {
+    width: 200px;
+    height: 200px;
+    background: #FE5F55;
+    border-radius: 50% 50% 25% 25%;
+    position: relative;
+
+    /* Chips off the overflow hair */
+    overflow: hidden;
+;  }
+  
+  .eyes {
+    background: #FFF1C1;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: absolute;
+    top: 90px;
+  }
+  
+  .left-eye {
+    left: 20px;
+  }
+  
+  .right-eye {
+    left: 120px;
+  }
+  
+  .mouth {
+    width: 40px;
+    height: 10px;
+    background: #FFF1C1;
+    border-radius: 5px;
+    position: absolute;
+    top: 170px;
+    left: 80px;
+  }
+  
+  .hair {
+    width: 100px;
+    height: 100px;
+    background: #FFF1C1;
+    position: absolute;
+    border-radius: 50%;
+    top: -50;
+  }
+  
+  .right-hair {
+    left: 100px;
+  }
+</style>
