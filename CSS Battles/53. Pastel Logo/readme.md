@@ -1,2 +1,2 @@
 ## 53. Pastel Logo  
-![Question](/Images/pastelLogo.png)
+![Question](../Images/pastelLogo.png)
