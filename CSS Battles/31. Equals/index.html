@@ -1,0 +1,40 @@
+
+<!-- HTML -->
+<div class="left semi"></div>
+<div class="right semi"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #AA445F;
+    position: relative;
+  }
+  
+  .semi {
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+  }
+  
+  .left {
+    background: #F7EC7D;
+    border-top-left-radius: 400px;
+    border-bottom-left-radius: 400px;
+    left: 75px;
+  }
+  
+  .right {
+    background: #E38F66;
+    border-top-right-radius: 400px;
+    border-bottom-right-radius: 400px;
+    left: 225px;
+  }
+</style>
+
+<!-- For a semicircle -->
+<!-- Height = width * 2
+Border radius of two corners = height * 2 -->
+
+<!-- Change height to width when orientation of semicircle is different -->
