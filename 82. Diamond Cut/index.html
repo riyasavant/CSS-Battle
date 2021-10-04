@@ -1,0 +1,62 @@
+<!-- HTML -->
+<div class="outer">
+    <div class="middle">
+        <div class="inner"></div>
+    </div>
+</div>
+<div class="s-left small"></div>
+<div class="s-right small"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #F3AC3C;
+    position: relative;
+  }
+  
+  .outer {
+    height: 161px;
+    width: 161px;
+    background: #998235;
+    transform: rotate(45deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 118px;
+    top: 70px;
+  }
+  
+  .middle {
+    height: 100px;
+    width: 100px;
+    background: #F3AC3C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .inner {
+    height: 30px;
+    width: 30px;
+    background: #1A4341;
+  }
+  
+  .small {
+    height: 30.5px;
+    width: 30.5px;
+    background: #F3AC3C;
+    position: absolute;
+    transform: rotate(45deg);
+    top: 90px;
+  }
+  
+  .s-left {
+    left: 137px;
+  }
+  
+  .s-right {
+    left: 230px;
+  }
+</style>
