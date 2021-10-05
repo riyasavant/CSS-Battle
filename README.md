@@ -14,4 +14,5 @@
   <img alt="Sunset" src="./images/62.png" height="300" width="260">
   <img alt="Supernova" src="./images/83.png" height="300" width="260">
   <img alt="Odoo" src="./images/81.png" height="300" width="260">
+  <img alt="Suffocate" src="./images/29.png" height="300" width="260">
 </div>
