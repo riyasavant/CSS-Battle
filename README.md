@@ -10,7 +10,7 @@
   <img alt="Junction" src="./images/84.png" height="300" width="260">
   <img alt="Baby" src="./images/42.png" height="300" width="260">
   <img alt="Pastel Logo" src="./images/53.png" height="300" width="260">
-  <img alt="Wash Your Hands" src="./images/48.png" height="300" width="260">
+  <img alt="Pythagoras" src="./images/85.png" height="300" width="260">
   <img alt="Sunset" src="./images/62.png" height="300" width="260">
   <img alt="Supernova" src="./images/83.png" height="300" width="260">
   <img alt="Ukelele" src="./images/78.png" height="300" width="260">
@@ -19,4 +19,5 @@
   <img alt="Equals" src="./images/31.png" height="300" width="260">
   <img alt="Odoo" src="./images/81.png" height="300" width="260">
   <img alt="Diamond Cut" src="./images/82.png" height="300" width="260">
+  <img alt="Wash Your Hands" src="./images/48.png" height="300" width="260">
 </div>
