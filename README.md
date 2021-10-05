@@ -15,5 +15,6 @@
   <img alt="Supernova" src="./images/83.png" height="300" width="260">
   <img alt="Odoo" src="./images/81.png" height="300" width="260">
   <img alt="Forking Crazy" src="./images/8.png" height="300" width="260">
+  <img alt="Stairway" src="./images/86.png" height="300" width="260">
   <img alt="Equals" src="./images/31.png" height="300" width="260">
 </div>
