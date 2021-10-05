@@ -6,6 +6,7 @@
 <h3>Completed Challenges</h3>
 <div>
   <img alt="Diamond Cut" src="./images/82.png" height="300" width="260">
+  <img alt="Junction" src="./images/84.png" height="300" width="260">
   <img alt="Equals" src="./images/31.png" height="300" width="260">
   <img alt="Baby" src="./images/42.png" height="300" width="260">
   <img alt="Pastel Logo" src="./images/53.png" height="300" width="260">
