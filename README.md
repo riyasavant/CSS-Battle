@@ -25,4 +25,8 @@
   <img alt="Cup & Balls" src="./images/28.png" height="300" width="260">
   <img alt="Stay At Home" src="./images/49.png" height="300" width="260">
   <img alt="Bell" src="./images/68.png" height="300" width="260">
+  <img alt="Wear a Mask" src="./images/51.png" height="300" width="260">
+  <img alt="Birdie" src="./images/33.png" height="300" width="260">
+  <img alt="Boxception" src="./images/23.png" height="300" width="260">
+  <img alt="Stripes" src="./images/44.png" height="300" width="260">
 </div>
