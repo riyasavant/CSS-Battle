@@ -19,5 +19,10 @@
   <img alt="Equals" src="./images/31.png" height="300" width="260">
   <img alt="Odoo" src="./images/81.png" height="300" width="260">
   <img alt="Diamond Cut" src="./images/82.png" height="300" width="260">
+  <img alt="Bell" src="./images/68.png" height="300" width="260">
   <img alt="Wash Your Hands" src="./images/48.png" height="300" width="260">
+  <img alt="Push Button" src="./images/3.png" height="300" width="260">
+  <img alt="Cup & Balls" src="./images/28.png" height="300" width="260">
+  <img alt="Stay At Home" src="./images/49.png" height="300" width="260">
+  <img alt="Bell" src="./images/68.png" height="300" width="260">
 </div>
