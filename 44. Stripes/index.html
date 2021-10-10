@@ -1,0 +1,63 @@
+<!-- HTML -->
+<div class="r1 box"></div>
+<div class="r2 box"></div>
+<div class="r3 box"></div>
+<div class="r4 box"></div>
+<div class="r5 box"></div>
+<div class="sl semi"></div>
+<div class="sr semi"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #1A4341;
+    position: relative;
+  }
+  
+  .box {
+    width: 160px;
+    height: 20px;
+    background: #F3AC3C;
+    position: absolute; 
+    left: 120px;
+    z-index: -1;
+  }
+  
+  .r1 {
+    top: 60px;
+  }
+  
+  .r2 {
+    top: 100px;
+  }
+  
+  .r3 {
+    top: 140px;
+  }
+  
+  .r4 {
+    top: 180px;
+  }
+  
+  .r5 {
+    top: 220px;
+  }
+  
+  .semi {
+    height: 300px;
+    width: 150px;
+    background: #1A4341;
+  }
+  
+  .sl {
+    border-radius: 0 600px 600px 0;
+  }
+  
+  .sr{
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 600px 0 0 600px;
+  }
+</style>
