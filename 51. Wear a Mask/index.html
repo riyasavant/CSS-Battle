@@ -1,0 +1,74 @@
+<!-- HTML -->
+<div class="mask">
+    <div class="filter f-top"></div>
+    <div class="filter f-bottom"></div>
+    <div class="circle"></div>
+  </div>
+  <div class="string s-left"></div>
+  <div class="string s-right"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #293462;
+    position: relative;
+  }
+  
+  .mask {
+    position: absolute;
+    height: 100px;
+    width: 150px;
+    background: #FFF1C1;
+    border-radius: 0 0 50px 50px;
+    top: 100px;
+    left: 125px;
+  }
+  
+  .circle {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: #FE5F55;
+    top: 40px;
+    right: 20px;
+  }
+  
+  .filter {
+    width: 40px;
+    height: 10px;
+    background: #FE5F55;
+    border-radius: 100px;
+    position: absolute;  
+  }
+  
+  .f-top {
+    top: 20px;
+    left: 20px;
+  }
+  
+  .f-bottom {
+    left: 20px;
+    top: 40px;
+  }
+  
+  .string {
+    background: #293462;
+    width: 70px;
+    height: 40px;
+    border-radius: 50px;
+    position: absolute;
+    border: 10px solid #FFF1C1;
+    z-index: -1;
+    top: 100px;
+  }
+  
+  .s-left {
+    left: 65px;
+  }
+  
+  .s-right {
+    left: 245px;
+  }
+</style>
