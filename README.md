@@ -37,7 +37,6 @@
   <img alt="Missing Slice" src="./images/6.png" height="300" width="260">
   <img alt="Tesseract" src="./images/9.png" height="300" width="260">
   <img alt="Cloaked Spirits" src="./images/10.png" height="300" width="260">
-  <img alt="Wear a mask" src="./images/51.png" height="300" width="260">
   <img alt="Hippo" src="./images/75.png" height="300" width="260">
   <!-- <img alt="Windmill" src="./images/55.png" height="300" width="260">
   <img alt="Christmas Tree" src="./images/34.png" height="300" width="260">
