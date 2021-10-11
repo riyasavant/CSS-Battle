@@ -1,0 +1,96 @@
+<!-- HTML -->
+<div class="left-ear ear"></div>
+<div class="right-ear ear"></div>
+<div class="face">
+  <div class="left-eye eye"></div>
+  <div class="right-eye eye"></div>
+</div>
+<div class="mouth">
+  <div class="left-nostril nose"></div>
+  <div class="right-nostril nose"></div>
+</div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #191919;
+    position: relative;
+  }
+  
+  .face {
+    width: 130px;
+    height: 100px;
+    background: #FE5F55;
+    border-radius: 60px 60px 0 0;
+    position: absolute;
+    left: 135px;
+    top: 75px;
+  }
+  
+  .eye {
+    width: 10px;
+    height: 10px;
+    background: #000000;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+  }
+  
+  .left-eye {
+    left: 25px;
+  }
+  
+  .right-eye {
+    left: 95px;
+  }
+  
+  .mouth {
+    width: 145px;
+    height: 100px;
+    background: #A64942;
+    position: absolute;
+    border-radius: 100px;
+    top: 145px;
+    left: 127px;
+  }
+  
+  .nose {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    border-radius: 50%;
+    background: #000000;
+    top: 25px;
+  }
+  
+  .left-nostril {
+    transform: rotate(-50deg);
+    left: 18px;
+  }
+  
+  .right-nostril {
+    transform: rotate(50deg);
+    left: 98px;
+  }
+  
+  .ear {
+    position: absolute;
+    width: 30px;
+    height: 10px;
+    border-radius: 50%;
+    background: #000000;
+    top: 80px;
+    border: 5px solid #FE5F55;
+  }
+  
+  .left-ear {
+    transform: rotate(50deg);
+    left: 140px;
+  }
+  
+  .right-ear {
+    transform: rotate(-50deg);
+    left: 215px;
+  }
+</style>
