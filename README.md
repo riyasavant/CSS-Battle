@@ -43,4 +43,5 @@
   <img alt="Web Maker Logo" src="./images/14.png" height="300" width="260">
   <img alt="Building Blocks" src="./images/87.png" height="300" width="260">
   <img alt="Skull" src="./images/56.png" height="300" width="260">
+  <img alt="Band Aid" src="./images/32.png" height="300" width="260">
 </div>
