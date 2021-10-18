@@ -45,4 +45,5 @@
   <img alt="Skull" src="./images/56.png" height="300" width="260">
   <img alt="Band Aid" src="./images/32.png" height="300" width="260">
   <img alt="Suffocate" src="./images/29.png" height="300" width="260">
+  <img alt="Black Lives Matter" src="./images/54.png" height="300" width="260">
 </div>
