@@ -1,0 +1,118 @@
+<!-- HTML -->
+<div class="ear left"></div>
+<div class="face">
+  <div class="head"></div>
+  <div class="e e1"></div>
+  <div class="e e2"></div>
+  <div class="mouth"></div>
+  <div class="nose">
+    <div class="ln n"></div>
+    <div class="l"></div>
+    <div class="lr n"></div>
+  </div>
+</div>
+<div class="ear right"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #F3AC3C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .face {
+    width: 150px;
+    height: 150px;
+    background: #998235;
+    border-radius: 70px 70px 60px 60px;
+    overflow: hidden;
+  }
+  
+  .ear {
+    width: 40px;
+    height: 40px;
+    background: #1A4341;
+    border-radius: 50%;
+    border: 10px solid #998235;
+    position: relative;
+    bottom: 55px;
+    z-index: -1;
+  }
+  
+  .left {
+    left: 50px;
+  }
+  
+  .right {
+    right: 50px;
+  }
+  
+  .e {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #1A4341;
+    position: absolute;
+    top: 135px;
+  }
+  
+  .e1 {
+    left: 150px;
+  }
+  
+  .e2 {
+    left: 230px;
+  }
+  
+  .mouth {
+    width: 100px;
+    height: 40px;
+    background: #FFFFFF;
+    position: relative;
+    top: 55px;
+    left: 25px;
+    border-radius: 15px 15px 50px 50px;
+  }
+  
+  .head {
+    width: 40px;
+    height: 40px;
+    background: #1A4341;
+    transform: rotate(45deg);
+    position: relative;
+    left: 55px;
+    bottom: 25px;
+  }
+  
+  .l {
+    width: 10px;
+    height: 30px;
+    background: #1A4341;
+    position: absolute;
+    left: 195px;
+    top: 160px;
+  }
+  
+  .n {
+    width: 20px;
+    height: 10px;
+    background-color: #FFFFFF;
+    border-bottom-left-radius: 110px;
+    border-bottom-right-radius: 110px;
+    border: 10px solid #1A4341;
+    border-top: 0;
+    position: absolute;
+    top: 180px;
+  }
+  
+  .ln {
+    left: 165px;
+  }
+  
+  .lr {
+    left: 195px;
+  }
+</style>
