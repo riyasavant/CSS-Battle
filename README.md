@@ -1,7 +1,7 @@
 <h1>CSS Battles</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 1347 / 140755</h3>
-<h3>Completed Challenges: 44 / 88</h3>
+<h3>Global Rank: 1315 / 140763</h3>
+<h3>Completed Challenges: 46 / 88</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -21,6 +21,9 @@
   <img alt="Web Maker Logo" src="./images/14.png" height="300" width="260">
 </div>
 <h4>Battle 3: Cursor</h4>
+<div>
+  <img alt="Ticket" src="./images/20.png" height="300" width="260">
+</div>
 <h4>Battle 4: Display</h4>
 <div>
   <img alt="Boxception" src="./images/23.png" height="300" width="260">
