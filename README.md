@@ -49,6 +49,9 @@
   <img alt="Stripes" src="./images/44.png" height="300" width="260">
 </div>
 <h4>Battle 9: Margin</h4>
+<div>
+  <img alt="Magical Tree" src="./images/45.png" height="300" width="260">
+</div>
 <h4>Battle 10: Block</h4>
 <div>
   <img alt="Wash Your Hands" src="./images/48.png" height="300" width="260">

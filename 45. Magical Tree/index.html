@@ -1,0 +1,48 @@
+<!-- HTML -->
+<div class="outer">
+    <div class="inner"></div>
+  </div>
+  <div class="v-line"></div>
+  <div class="h-line"></div>
+
+  <!-- CSS -->
+  <style>
+    body {
+      margin: 0;
+      background: #1A4341;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .outer {
+      height: 180px;
+      width: 210px;
+      border: 30px solid #F3AC3C;
+      border-top: none;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .inner {
+      width: 90px;
+      height: 120px;
+      border: 30px solid #998235;
+      border-top: none;
+    }
+    
+    .v-line {
+      position: absolute;
+      width: 30px;
+      height: 300px;
+      background: #F3AC3C;
+    }
+    
+    .h-line {
+      position: absolute;
+      height: 30px;
+      width: 270px;
+      background: #998235;
+      bottom: 30px;
+      z-index: -1;
+    }
+  </style>
