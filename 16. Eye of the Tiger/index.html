@@ -1,0 +1,55 @@
+<!-- HTML -->
+<div class="lt"></div>
+<div class="outer-c">
+  <div class="inner-c"></div>
+</div>
+<div class="rt"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #0B2429;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .outer-c {
+    width: 180px;
+    height: 180px;
+    border: 10px solid #998235;
+    background: #0B2429;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .inner-c {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 45px solid #F3AC3C;
+  }
+  
+  .lt {
+    width: 80px;
+    height: 80px;
+	background: #998235;
+    transform: rotate(45deg);
+    z-index: -1;
+    position: relative;
+    left: 58px;
+  }
+  
+  .rt {
+    width: 80px;
+    height: 80px;
+	background: #998235;
+    transform: rotate(45deg);
+    z-index: -1;
+    position: relative;
+    right: 58px;
+  }
+</style>
