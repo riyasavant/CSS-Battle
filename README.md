@@ -19,6 +19,7 @@
 <div>
   <img alt="Totally Triangle" src="./images/13.png" height="300" width="260">
   <img alt="Web Maker Logo" src="./images/14.png" height="300" width="260">
+  <img alt="Overlap" src="./images/15.png" height="300" width="260">
 </div>
 <h4>Battle 3: Cursor</h4>
 <div>

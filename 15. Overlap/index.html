@@ -1,0 +1,41 @@
+<!-- HTML -->
+<div class="c lc"></div>
+<div class="leaf"></div>
+<div class="c rc"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #09042A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .c {
+    width: 150px;
+    height: 150px;
+    background: #E78481;
+    border-radius: 50%;
+    position: relative;
+  }
+  
+  .leaf {
+    height: 80px;
+    width: 81px;
+    border-radius: 80px 0;
+    background: #09042A;
+    transform: rotate(-45deg);
+    z-index: 1;
+  }
+  
+  .lc {
+    background: #7B3F61;
+    left: 65px;
+  }
+  
+  .rc {
+    right: 65px;
+  }
+</style>
