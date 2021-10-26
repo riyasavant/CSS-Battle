@@ -47,6 +47,7 @@
   <img alt="Christmas Tree" src="./images/34.png" height="300" width="260">
   <img alt="Interleaved" src="./images/36.png" height="300" width="260">
   <img alt="Tunnel" src="./images/37.png" height="300" width="260">
+  <img alt="Letter B" src="./images/40.png" height="300" width="260">
 </div>
 <h4>Battle 8: Transition</h4>
 <div>
