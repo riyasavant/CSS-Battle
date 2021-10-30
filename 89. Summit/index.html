@@ -1,0 +1,44 @@
+<!-- HTML -->
+<div class="c c1"></div>
+<div class="s"></div>
+<div class="quarter"></div>
+
+<!-- CSS -->
+<style>
+  body {
+    margin: 0;
+    background: #191919;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .c {
+    width: 200px;
+    height: 200px;
+    background: #F9E492;
+    border-radius: 50%;
+  }
+  
+  .quarter{
+	width: 93;
+    height: 93;
+    border-top-right-radius:0;
+    border-top-left-radius:0;
+    border-bottom-right-radius:0;
+    border-bottom-left-radius:100%;
+    background: #191919;
+    position: absolute;
+    transform: rotate(-45deg);
+    top: 177px;
+}
+  
+  .s {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background: #4F77FF;
+    transform: rotate(45deg);
+    top: 200px;
+  }
+</style>

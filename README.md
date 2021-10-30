@@ -100,5 +100,6 @@
 </div>
 <h4>Battle 16: Aspect</h4>
 <div>
+  <img alt="Summit" src="./images/89.png" height="300" width="260">
   <img alt="Eclipse" src="./images/90.png" height="300" width="260">
 </div>
