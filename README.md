@@ -97,3 +97,7 @@
   <img alt="Stairway" src="./images/86.png" height="300" width="260">
   <img alt="Building Blocks" src="./images/87.png" height="300" width="260">
 </div>
+<h4>Battle 16: Aspect</h4>
+<div>
+  <img alt="Eclipse" src="./images/90.png" height="300" width="260">
+</div>
