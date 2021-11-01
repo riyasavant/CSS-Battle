@@ -1,7 +1,7 @@
 <h1>CSS Battles</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 1025th / 143901</h3>
-<h3>Completed Challenges: 54 / 90</h3>
+<h3>Global Rank: 991st / 143913</h3>
+<h3>Completed Challenges: 55 / 90</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -82,6 +82,7 @@
 <div>
   <img alt="Happy Tiger" src="./images/73.png" height="300" width="260">
   <img alt="Hippo" src="./images/75.png" height="300" width="260">
+  <img alt="Beeee" src="./images/76.png" height="300" width="260">
 </div>
 <h4>Battle 14: ZIndex</h4>
 <div>
