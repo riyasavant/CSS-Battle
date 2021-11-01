@@ -85,6 +85,7 @@
 </div>
 <h4>Battle 14: ZIndex</h4>
 <div>
+  <img alt="Notes" src="./images/77.png" height="300" width="260">
   <img alt="Ukelele" src="./images/78.png" height="300" width="260">
   <img alt="Piano" src="./images/80.png" height="300" width="260">
 </div>
