@@ -1,7 +1,7 @@
 <h1>CSS Battles</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 991st / 143913</h3>
-<h3>Completed Challenges: 55 / 90</h3>
+<h3>Global Rank: 869th / 144260</h3>
+<h3>Completed Challenges: 58 / 90</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -29,6 +29,8 @@
 </div>
 <h4>Battle 4: Display</h4>
 <div>
+  <img alt="SitePoint Logo" src="./images/21.png" height="300" width="260">
+  <img alt="Cloud" src="./images/22.png" height="300" width="260">
   <img alt="Boxception" src="./images/23.png" height="300" width="260">
   <img alt="Blossom" src="./images/25.png" height="300" width="260">
   <img alt="Cup & Balls" src="./images/28.png" height="300" width="260">
@@ -59,6 +61,7 @@
 <h4>Battle 9: Margin</h4>
 <div>
   <img alt="Magical Tree" src="./images/45.png" height="300" width="260">
+  <img alt="Mountains" src="./images/46.png" height="300" width="260">
 </div>
 <h4>Battle 10: Block</h4>
 <div>
