@@ -1,8 +1,8 @@
 <h1>CSS Battles</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 869th / 144260</h3>
+<h3>Global Rank: 871th / 144804</h3>
 <h3>Completed Challenges: 58 / 90</h3>
-<h4>Battle 1: Pilot Battle</h4>
+<h4>Battle 1: Pilot Battle 
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
   <img alt="Carrom" src="./images/2.png" height="300" width="260">
