@@ -1,7 +1,7 @@
 <h1>CSS Battles</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 869th / 144260</h3>
-<h3>Completed Challenges: 58 / 90</h3>
+<h3>Global Rank: 842nd / 145243</h3>
+<h3>Completed Challenges: 59 / 92</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -33,6 +33,7 @@
   <img alt="Cloud" src="./images/22.png" height="300" width="260">
   <img alt="Boxception" src="./images/23.png" height="300" width="260">
   <img alt="Blossom" src="./images/25.png" height="300" width="260">
+  <img alt="Lock Up" src="./images/27.png" height="300" width="260">
   <img alt="Cup & Balls" src="./images/28.png" height="300" width="260">
 </div>
 <h4>Battle 5: Inline</h4>
