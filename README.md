@@ -1,13 +1,14 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 739th / 145262</h3>
-<h3>Completed Challenges: 62 / 92</h3>
+<h3>Global Rank: 720th / 145817</h3>
+<h3>Completed Challenges: 63 / 92</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
   <img alt="Carrom" src="./images/2.png" height="300" width="260">
   <img alt="Push Button" src="./images/3.png" height="300" width="260">
   <img alt="Ups and Downs" src="./images/4.png" height="300" width="260">
+  <img alt="Acid Rain" src="./images/5.png" height="300" width="260">
   <img alt="Missing Slice" src="./images/6.png" height="300" width="260">
   <img alt="Leafy Trail" src="./images/7.png" height="300" width="260">
   <img alt="Forking Crazy" src="./images/8.png" height="300" width="260">
