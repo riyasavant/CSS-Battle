@@ -1,7 +1,7 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 776th / 145255</h3>
-<h3>Completed Challenges: 61 / 92</h3>
+<h3>Global Rank: 739th / 145262</h3>
+<h3>Completed Challenges: 62 / 92</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -51,6 +51,7 @@
 <div>
   <img alt="Birdie" src="./images/33.png" height="300" width="260">
   <img alt="Christmas Tree" src="./images/34.png" height="300" width="260">
+  <img alt="Ice Cream" src="./images/35.png" height="300" width="260">
   <img alt="Interleaved" src="./images/36.png" height="300" width="260">
   <img alt="Tunnel" src="./images/37.png" height="300" width="260">
   <img alt="Not Simply Square" src="./images/38.png" height="300" width="260">
