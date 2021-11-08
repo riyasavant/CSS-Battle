@@ -1,7 +1,7 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 720th / 145817</h3>
-<h3>Completed Challenges: 63 / 92</h3>
+<h3>Global Rank: 559th / 146010</h3>
+<h3>Completed Challenges: 68 / 92</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -23,6 +23,7 @@
   <img alt="Overlap" src="./images/15.png" height="300" width="260">
   <img alt="Eye of the Tiger" src="./images/16.png" height="300" width="260">
   <img alt="Fidget Spinner" src="./images/17.png" height="300" width="260">
+  <img alt="Matrix" src="./images/18.png" height="300" width="260">
 </div>
 <h4>Battle 3: Cursor</h4>
 <div>
@@ -34,6 +35,7 @@
   <img alt="SitePoint Logo" src="./images/21.png" height="300" width="260">
   <img alt="Cloud" src="./images/22.png" height="300" width="260">
   <img alt="Boxception" src="./images/23.png" height="300" width="260">
+  <img alt="Switches" src="./images/24.png" height="300" width="260">
   <img alt="Blossom" src="./images/25.png" height="300" width="260">
   <img alt="Lock Up" src="./images/27.png" height="300" width="260">
   <img alt="Cup & Balls" src="./images/28.png" height="300" width="260">
@@ -84,6 +86,7 @@
 <h4>Battle 12: Blend</h4>
 <div>
   <img alt="Sunset" src="./images/62.png" height="300" width="260">
+  <img alt="Command Key" src="./images/63.png" height="300" width="260">
   <img alt="Bell" src="./images/68.png" height="300" width="260">
 </div>
 <h4>Battle 13: Clip</h4>
@@ -112,4 +115,6 @@
 <div>
   <img alt="Summit" src="./images/89.png" height="300" width="260">
   <img alt="Eclipse" src="./images/90.png" height="300" width="260">
+  <img alt="Reflection" src="./images/91.png" height="300" width="260">
+  <img alt="Squeeze" src="./images/92.png" height="300" width="260">
 </div>
