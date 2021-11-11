@@ -1,7 +1,7 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 564th / 146962</h3>
-<h3>Completed Challenges: 68 / 92</h3>
+<h3>Global Rank: 514th / 147266</h3>
+<h3>Completed Challenges: 70 / 92</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -117,4 +117,5 @@
   <img alt="Eclipse" src="./images/90.png" height="300" width="260">
   <img alt="Reflection" src="./images/91.png" height="300" width="260">
   <img alt="Squeeze" src="./images/92.png" height="300" width="260">
+  <img alt="Ripples" src="./images/94.png" height="300" width="260">
 </div>
