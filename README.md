@@ -15,6 +15,7 @@
   <img alt="Tesseract" src="./images/9.png" height="300" width="260">
   <img alt="Cloaked Spirits" src="./images/10.png" height="300" width="260">
   <img alt="Eye of Sauron" src="./images/11.png" height="300" width="260">
+  <img alt="Wiggly Moustache" src="./images/12.png" height="300" width="260">
 </div>
 <h4>Battle 2: Visibility</h4>
 <div>
