@@ -1,6 +1,6 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 360th / 150021</h3>
+<h3>Global Rank: 336th / 150069</h3>
 <h3>Completed Challenges: 77 / 94</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
@@ -96,6 +96,7 @@
 </div>
 <h4>Battle 13: Clip</h4>
 <div>
+  <img alt="Elephant" src="./images/71.png" height="300" width="260">
   <img alt="Happy Tiger" src="./images/73.png" height="300" width="260">
   <img alt="Hippo" src="./images/75.png" height="300" width="260">
   <img alt="Beeee" src="./images/76.png" height="300" width="260">
