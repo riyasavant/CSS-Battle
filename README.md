@@ -1,7 +1,7 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 336th / 150069</h3>
-<h3>Completed Challenges: 77 / 94</h3>
+<h3>Global Rank: 307th / 150071</h3>
+<h3>Completed Challenges: 79 / 96</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -79,6 +79,7 @@
   <img alt="Stay At Home" src="./images/49.png" height="300" width="260">
   <img alt="Use Hand Sanitizer" src="./images/50.png" height="300" width="260">
   <img alt="Wear a Mask" src="./images/51.png" height="300" width="260">
+  <img alt="Break the Chain" src="./images/52.png" height="300" width="260">
 </div>
 <h4>Battle 11: Overflow</h4>
 <div>
