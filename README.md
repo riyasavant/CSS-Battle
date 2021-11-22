@@ -107,6 +107,7 @@
 <div>
   <img alt="Notes" src="./images/77.png" height="300" width="260">
   <img alt="Ukelele" src="./images/78.png" height="300" width="260">
+  <img alt="Tambourine" src="./images/79.png" height="300" width="260">
   <img alt="Piano" src="./images/80.png" height="300" width="260">
 </div>
 <h4>Battle 15: Filter</h4>
