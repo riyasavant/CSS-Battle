@@ -1,6 +1,6 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 211th / 151500</h3>
+<h3>Global Rank: 208th / 151562</h3>
 <h3>Completed Challenges: 85 / 96</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
