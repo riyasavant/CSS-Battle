@@ -92,6 +92,7 @@
 <div>
   <img alt="Sunset" src="./images/62.png" height="300" width="260">
   <img alt="Command Key" src="./images/63.png" height="300" width="260">
+  <img alt="Max Volume" src="./images/65.png" height="300" width="260">
   <img alt="Video Reel" src="./images/67.png" height="300" width="260">
   <img alt="Bell" src="./images/68.png" height="300" width="260">
 </div>
