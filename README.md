@@ -1,7 +1,7 @@
 <h1>CSS Battle</h1>
 <p>This <a href="https://cssbattle.dev/">platform</a> contains various challenges for developers to take up in order to improve their CSS skills.</p>
-<h3>Global Rank: 208th / 151562</h3>
-<h3>Completed Challenges: 85 / 96</h3>
+<h3>Global Rank: 183rd / 152305</h3>
+<h3>Completed Challenges: 87 / 96</h3>
 <h4>Battle 1: Pilot Battle</h4>
 <div>
   <img alt="Simply Square" src="./images/1.png" height="300" width="260">
@@ -87,6 +87,7 @@
   <img alt="Black Lives Matter" src="./images/54.png" height="300" width="260">
   <img alt="Windmill" src="./images/55.png" height="300" width="260">
   <img alt="Skull" src="./images/56.png" height="300" width="260">
+  <img alt="Earth" src="./images/59.png" height="300" width="260">
 </div>
 <h4>Battle 12: Blend</h4>
 <div>

@@ -1,0 +1,26 @@
+<div class="a"></div>
+<div class="c"></div>
+<div class="b"></div>
+<div class="b y"></div>
+<div class="b z"></div>
+<div class="b e"></div>
+
+<!-- CSS -->
+<style>
+  *{margin:0;background:#191919;position:absolute}
+  .a{width:150;height:150;background:#4F77FF;border-radius:50%;top:75;left:125}
+  .b{width:400;height:10;top:105}
+  .y{top:145}
+  .z{top:185}
+  .e{transform:rotate(90deg)}
+  
+  :before, :after {
+    content: '';
+    position:absolute;
+    z-index:1;
+  }
+  
+  .a:before {
+    width:211;height:211;border:10px solid #191919;border-radius:50%;top:50%;right:30px;transform:translateY(-50%);box-sizing:border-box;-webkit-box-reflect:right -90px;
+  }
+</style>
